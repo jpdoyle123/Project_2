@@ -9,7 +9,7 @@ This analysis constitutes the second project submission of the FinTech Bootcamp 
 This analysis was made using Python (v3.7.0), WindowsOS, MacOS, Jupyter Lab, and Google Colaboratory. <br/>
 
 This analysis uses the following libraries and dependencies:
-
+pathlib, pandas, numpy, sklearn.preprocessing, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, tensorflow, tensorflow.keras.layers, tensorflow.keras.models, sklearn.ensemble
 
 # Data
 This analysis reads data from one csv file. The data includes each Kickstarter Project's []
